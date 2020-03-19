@@ -47,3 +47,7 @@ Ainv*(cflag - B) = Ainv*(A*flag + B - B) = Ainv*A*flag = flag
 ```
 
 Se även solution.py
+
+## Lösning på livestream
+
+Del 1: https://www.youtube.com/watch?v=mEeccIodvFQ&t=8175s

@@ -17,3 +17,7 @@ I den här uppgiften fick man även en ip och port till en server där echo kör
 ## Lösning
 
 Intro till x86_64 rop. Hoppa mellan diverse funktioner med specifika argument för att få flaggan. Se solve.py
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=mEeccIodvFQ&t=2410s

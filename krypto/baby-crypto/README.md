@@ -22,3 +22,7 @@ eller
 
 Bacon hintar till att detta är bacon chiffret.
 Gå till exempelvis https://www.dcode.fr/bacon-cipher och decrypta.
+
+## Lösning på livstream
+
+https://www.youtube.com/watch?v=mEeccIodvFQ&t=5840s

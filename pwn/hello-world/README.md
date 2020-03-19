@@ -15,3 +15,7 @@ SSM{d_w0RLDz_B1CCEST_0verflow1111}
 
 ## Lösning
 Buffer overflow på stack mha gets. Anropa `win` för att få flaggan. Se solve.py.
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=mEeccIodvFQ&t=460s

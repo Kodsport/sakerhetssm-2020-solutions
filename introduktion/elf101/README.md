@@ -27,4 +27,8 @@ SSM{good_luck_if_you_have_mac_i_dont_know_how_to_apple}
 
 Ladda ner elf. Kör `./elf`. 
 
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=825s
+
 

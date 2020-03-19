@@ -23,3 +23,7 @@ SSM{th3re_1s_3ven_b4se_85_wut_wut}
 https://gchq.github.io/CyberChef är väldigt bra verktyg för att konvertera mellan olika encodings.
 
 Här är lösningen för den här uppgiften: https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')From_Base64('A-Za-z0-9%2B/%3D',true)&input=NTUzMTRlNGU2NTMzNTI2ZjRkMzM0YTZjNTg3YTQ2N2E1ODdhNGUzMjVhNTczNTY2NTk2YTUyN2E1YTU2MzgzNDRlNTYzOTMzNjQ1ODUyNjY2NDMzNTYzMDY2NTEzZDNk
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=290s

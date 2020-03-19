@@ -39,3 +39,7 @@ Skicka följande post request (body) till /api/get/flag
 
 Detta kommer hämta det första dokumentet i databasen, vilket är flaggan
 
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=3930s

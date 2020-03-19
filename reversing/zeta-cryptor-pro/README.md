@@ -22,6 +22,10 @@ Given fil: zeta-cryptor-pro.tgz
 
 ???
 
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=12820s
+
 ## Install
 
 Runtime dependencies:

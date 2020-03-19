@@ -31,3 +31,7 @@ Då ser man att det är eval som körs på saker.
 Då kan man testa `open("flag.txt")` eller nått, men det går inte.
 
 Istället så kan man köra `__import__("os").system("ls")`, och sedan `__import__("os").system("cat flag.txt")`
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=mEeccIodvFQ&t=140s

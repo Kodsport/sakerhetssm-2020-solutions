@@ -23,4 +23,9 @@ Given fil: diffcomp
 
 ## Lösning
 
-Programmet kollar om första bokstaven, `pass[0]`, är S och kollar vidare om `pass[i] - pass[i-1] == diff[i]` där `diff[i]` är skillnaden mellan `pass[i]` och pass[i-1]` i det korrekta lösenordet. 
+Programmet kollar om första bokstaven, `pass[0]`, är S och kollar vidare om `pass[i] - pass[i-1] == diff[i]` där `diff[i]` är skillnaden mellan `pass[i]` och `pass[i-1]` i det korrekta lösenordet. 
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=6260s
+

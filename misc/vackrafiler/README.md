@@ -65,3 +65,6 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa^MHEJ HAR FINNS INGEN FLAGGA ATT HI
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa^MHEJ HAR FINNS INGEN FLAGGA ATT HITTA. LETA NAGON ANNANSTANS.
 ```
 
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=1830s

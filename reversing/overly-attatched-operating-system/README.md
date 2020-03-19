@@ -19,3 +19,7 @@ Given fil: Disk.bin
 ## Lösning
 
 ??
+
+## Lösning på livestream 
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=9650s

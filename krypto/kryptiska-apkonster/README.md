@@ -27,3 +27,7 @@ Går att göra manuellt, men det är pilligt:
 Automatiserad lösning: `solution.py`
 
 Halvautomatiserad lösning: `solution_manual.py`, man får copypastea till och från server och klient
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=mEeccIodvFQ&t=7185s

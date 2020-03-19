@@ -15,3 +15,7 @@ SSM{y44yyy_an0ther_n00te_chall111!gz!}
 
 ## Lösning
 Use After Free. Se solve.py.
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=mEeccIodvFQ&t=3940s

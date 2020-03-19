@@ -25,3 +25,7 @@ Beräkna `m = c^d (mod n)`.
 Hexdecodea `m`
 
 Möjlig lösning i sage: se `solve.sage`
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=mEeccIodvFQ&t=6695s

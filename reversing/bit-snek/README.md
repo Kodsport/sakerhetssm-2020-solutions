@@ -17,3 +17,7 @@ Given fil: snek-dist.tgz
 
 ??
 
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=5360s
+

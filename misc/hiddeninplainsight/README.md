@@ -22,3 +22,7 @@ Koderna är: QR, Aztec Code, PDF417, jabcode.
 https://jabcode.org/ är nice för jabcode.
 Konkatenera sedan flaggbitarna.
 
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=1400s
+

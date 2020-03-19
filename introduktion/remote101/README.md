@@ -23,3 +23,7 @@ Kommando: nc <ip> <port>
 
 Kör kommandot `nc 35.228.52.143 4321`
 
+## Lösning på Livestream
+
+https://www.youtube.com/watch?v=CYBGQ9Zp6UQ&t=685s
+
