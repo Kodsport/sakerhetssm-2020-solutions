@@ -1,0 +1,42 @@
+{
+  "name": "spoofiloof",
+  "version": "1.0.0",
+  "description": "ip spoof question for kodsport ssm",
+  "main": "build/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node_modules/ttypescript/bin/tsc",
+    "prestart": "npm run build",
+    "start": "node build/app.js"
+  },
+  "author": "Kelvin Szolnoky",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@types/body-parser": "^1.19.0",
+    "@types/compression": "^1.7.0",
+    "@types/cookie-parser": "^1.4.2",
+    "@types/cors": "^2.8.6",
+    "@types/express": "^4.17.3",
+    "@types/helmet": "0.0.45",
+    "@types/node-schedule": "^1.3.0",
+    "axios": "^0.19.2",
+    "ts-node": "^8.6.2",
+    "ttypescript": "^1.5.10",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@types/bcrypt": "^3.0.0",
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.4",
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "express-validator": "6.3.0",
+    "helmet": "^3.21.3",
+    "node-schedule": "^1.3.2"
+  }
+}
