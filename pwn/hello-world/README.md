@@ -2,7 +2,7 @@
 
 - **Skapare:** Viktor Edström
 - **Poäng:** 250
-- **Antal lösningar:** ???
+- **Antal lösningar:** 8
 
 ## Beskrivning
 I just learned to code my first Hello world. Check it out!

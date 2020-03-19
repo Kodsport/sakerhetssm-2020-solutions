@@ -2,7 +2,7 @@
 
 - **Skapare:** Calle Svensson
 - **Poäng:** 500
-- **Antal lösningar:** ???
+- **Antal lösningar:** 5
 
 NaCl documentation: https://nacl.cr.yp.to/
 

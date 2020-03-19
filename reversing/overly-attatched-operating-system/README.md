@@ -2,7 +2,7 @@
 
 - **Skapare:** Hannes Bredberg
 - **Poäng:** 350
-- **Antal lösningar:** ???
+- **Antal lösningar:** 3
 
 ## Beskrivning
 Det här operativsystemet lämnar mig aldrig i fred.

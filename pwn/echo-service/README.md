@@ -2,7 +2,7 @@
 
 - **Skapare:** Viktor Edström
 - **Poäng:** 350
-- **Antal lösningar:** ???
+- **Antal lösningar:** 8
 
 ## Beskrivning
 Since the Hello World program was so good I decided to build an echo service. Nothing can go wrong... right?

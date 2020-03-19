@@ -2,7 +2,7 @@
 
 - **Skapare:** Knowit (Fredrik Ljung)
 - **Poäng:** 300
-- **Antal lösningar:** ???
+- **Antal lösningar:** 15
 
 
 ## Beskrivning

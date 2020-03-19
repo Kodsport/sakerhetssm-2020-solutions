@@ -2,7 +2,7 @@
 
 - **Skapare:** Kelvin Szolnoky
 - **Poäng:** 250
-- **Antal lösningar:** ???
+- **Antal lösningar:** 7
 
 ## Beskrivning
 

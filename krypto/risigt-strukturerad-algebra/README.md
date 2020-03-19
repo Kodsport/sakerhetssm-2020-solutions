@@ -2,7 +2,7 @@
 
 - **Skapare:** Herman Karlsson
 - **Poäng:** 400
-- **Antal lösningar:** ???
+- **Antal lösningar:** 16
 
 ## Beskrivning
 

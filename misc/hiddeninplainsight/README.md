@@ -2,7 +2,7 @@
 
 - **Skapare:** Mattias Grenfeldt
 - **Poäng:** 75
-- **Antal lösningar:** ???
+- **Antal lösningar:** 42
 
 ## Beskrivning
 

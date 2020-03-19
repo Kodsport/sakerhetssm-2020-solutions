@@ -2,7 +2,7 @@
 
 - **Skapare:** Fredrik Ljung
 - **Poäng:** 50
-- **Antal lösningar:** ???
+- **Antal lösningar:** 35
 
 ## Beskrivning
 

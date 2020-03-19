@@ -2,7 +2,7 @@
 
 - **Skapare:** Alexander Stenlund
 - **Poäng:** 300
-- **Antal lösningar:** ???
+- **Antal lösningar:** 11
 
 ## Beskrivning
 

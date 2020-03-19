@@ -2,7 +2,7 @@
 
 - **Skapare:** Axel Boström
 - **Poäng:** 200
-- **Antal lösningar:** ???
+- **Antal lösningar:** 17
 
 ## Beskrivning
 

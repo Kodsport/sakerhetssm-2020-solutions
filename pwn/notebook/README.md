@@ -2,7 +2,7 @@
 
 - **Skapare:** Viktor Edström
 - **Poäng:** 500
-- **Antal lösningar:** ???
+- **Antal lösningar:** 5
 
 ## Beskrivning
 After the success stories of the Hello World and Echo service it's now time for something new. Something bold! An absolute Facebook-killer. Introducing the Notebook service!

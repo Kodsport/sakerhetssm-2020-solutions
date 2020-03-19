@@ -2,7 +2,7 @@
 
 - **Skapare:** Aron Bergman
 - **Poäng:** 250
-- **Antal lösningar:** ???
+- **Antal lösningar:** 12
 
 ## Beskrivning
 

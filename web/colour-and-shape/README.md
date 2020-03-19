@@ -2,7 +2,7 @@
 
 - **Skapare:** Calle Svensson
 - **Poäng:** 200
-- **Antal lösningar:** ???
+- **Antal lösningar:** 8
 
 ## Beskrivning 
 

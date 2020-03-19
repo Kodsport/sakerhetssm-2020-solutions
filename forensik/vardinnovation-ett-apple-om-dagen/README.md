@@ -2,7 +2,7 @@
 
 - **Skapare:** Vårdinnovation (Johan Sannemo)
 - **Poäng:** 350
-- **Antal lösningar:** ???
+- **Antal lösningar:** 10
 
 ## Beskrivning
 Den senaste tiden har ett stort antal medieläckor om hälsostatusen för diverse kändisar från hela landet fått folk att undra -- är det någon läkare som olovligen har börjat kika i folks journaler?
