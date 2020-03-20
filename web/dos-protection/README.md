@@ -64,4 +64,6 @@ Där:
 
 5. Efter 11 sådana request får man tillbaka flaggan.
 
+## Lösning på livestream
 
+https://www.youtube.com/watch?v=Od8QJwQpbkk&t=6080s

@@ -21,3 +21,7 @@ Skapad med hjälp av `https://github.com/plurSKI/imageSpectrogram`
 Öppna ljudfilen i ett program som kan visa ett spectrogram för ljudet. Skala om frekvensskalan så att texten blir läslig. 
 
 Se bilder för exempel på hur spectrogrammet kan se ut. 
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=Od8QJwQpbkk&t=390s

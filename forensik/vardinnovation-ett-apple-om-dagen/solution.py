@@ -1,4 +1,5 @@
 #!/bin/env python3
+# Solution by Mattias Grenfeldt
 from datetime import datetime
 import sys
 
@@ -27,7 +28,7 @@ for (k, v) in d.items():
 # gave too many results
 '''
 
-'''
+
 # look at zip codes.
 for (doc_id, v) in d.items():
     count = {}
@@ -45,7 +46,7 @@ for (doc_id, v) in d.items():
 # doctors generally have consecutive zip codes.
 # The 2 first digits of each zip code are the same for legitimate access. 
 # pe3k1nn} <--- accesses very many different zip codes
-'''
+
 
 '''
 # look if people work on weekends

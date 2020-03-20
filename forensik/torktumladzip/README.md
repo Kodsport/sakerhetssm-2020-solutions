@@ -29,3 +29,7 @@ Efter man ha insett att alla fält är off by one är det bara att ändra tillba
 
 Ett till trevligt verktyg är:
 + kaitai: https://ide.kaitai.io/
+
+# Lösning på livestream
+
+https://www.youtube.com/watch?v=Od8QJwQpbkk&t=4825s

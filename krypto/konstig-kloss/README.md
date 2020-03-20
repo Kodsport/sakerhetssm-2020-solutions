@@ -50,4 +50,5 @@ Se även solution.py
 
 ## Lösning på livestream
 
-Del 1: https://www.youtube.com/watch?v=mEeccIodvFQ&t=8175s
+https://www.youtube.com/watch?v=mEeccIodvFQ&t=8175s
+https://www.youtube.com/watch?v=Od8QJwQpbkk&t=11390s

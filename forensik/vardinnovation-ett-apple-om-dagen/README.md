@@ -19,4 +19,6 @@ SSM{b4dd0c7rst0ppe3k1nn}
 
 Se solution.py
 
-TODO: skriv mer text.
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=Od8QJwQpbkk&t=1205s

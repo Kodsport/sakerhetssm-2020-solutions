@@ -26,3 +26,7 @@ Vi kan nu brute-forcea lösenordet för zip-filen mha. verktyget fcrackzip: http
 Lösenordet är BESTFRIENDS4EVER
 
 Vi hittar sedan flaggan i en textfil inuti zip-filen.
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=Od8QJwQpbkk&t=795s

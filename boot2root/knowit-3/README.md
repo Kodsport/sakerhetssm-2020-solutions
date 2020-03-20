@@ -27,3 +27,6 @@ och sen:
 
 För att läsa ut flaggan.
 
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=Od8QJwQpbkk&t=10515s

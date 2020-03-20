@@ -20,3 +20,6 @@ Går man till `/var/www` hittar man `/wordpress` och i `wp-config.php` finns lö
 
 Nu kan man antingen ssh:a in som david eller köra `su - david` och skriva in lösenordet.
 
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=Od8QJwQpbkk&t=9770s

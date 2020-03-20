@@ -38,3 +38,6 @@ Payload:
 
 När man fått ett shell på webbservern så kan man navigera till /home/www-data och läsa ut flaggan med `cat flag.txt`.
 
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=Od8QJwQpbkk&t=8390s

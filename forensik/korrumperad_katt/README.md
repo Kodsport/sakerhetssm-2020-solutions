@@ -17,3 +17,7 @@ SSM{PurrrdyCet}
 ## Lösning
 
 Öppna bilden i en hexeditor, ctrl + f "ssm{" så hittar man nyckeln
+
+## Lösning på livestream
+
+https://www.youtube.com/watch?v=Od8QJwQpbkk&t=135s
